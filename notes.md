@@ -6,4 +6,4 @@ Throughput
 * In Cold HDD the baseline performance is 6 MiB/S per TiB and Throughput Optimized HDD the baseline performance is 40 MiB/sec per TiB
   
 * testing image
-  ![Preview](testing.jpeg)
+  ![Preview](testing.png)
